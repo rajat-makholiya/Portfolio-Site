@@ -1,5 +1,6 @@
-import * as React from "react"
+import * as React from "react";
+import Profile from "./Profile";
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Profile />;
 }
